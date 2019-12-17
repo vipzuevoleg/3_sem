@@ -1,0 +1,29 @@
+buffer size: 32
+fifo transfer: 247.340503s
+shm transfer: 292.019807s
+queue transfer: 324.940426s
+
+buffer size: 128
+fifo transfer: 63.521773s
+shm transfer: 86.492013s
+queue transfer: 91.042428s
+
+buffer size: 1024
+fifo transfer: 21.000622s
+shm transfer: 23.510106s
+queue transfer: 23.711125s
+
+buffer size: 4096
+fifo transfer: 3.881875s
+shm transfer: 3.755419s
+queue transfer: 3.892815s
+
+buffer size: 8192
+fifo transfer: 3.072577s
+shm transfer: 2.929871s
+queue transfer: 3.058487s
+
+buffer size: 65536
+fifo transfer: 2.158399s
+shm transfer: 1.650528s
+
